@@ -1,0 +1,4 @@
+rootProject.name='CollectionApp'
+include ':app'
+include ':app:allaboutdialog'
+include ':basicselements'
