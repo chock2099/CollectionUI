@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="grayDefault">#bdbdbd</color>
+    <color name="blackDefault">#212121</color>
+    <color name="colorOvalActive">#e3e829</color>
+    <color name="colorOvalInActvie">#c1c7d0</color>
+    <color name="colorRippleEfect">#212121</color>
+</resources>

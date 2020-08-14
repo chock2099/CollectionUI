@@ -1,0 +1,9 @@
+<resources>
+    <declare-styleable name="attr_state_button">
+        <attr name="resImgActive" format="reference" />
+        <attr name="resImgInActive" format="reference" />
+        <attr name="isState" format="boolean"/>
+        <attr name="colorTintActive" format="color"/>
+        <attr name="colorTintInActive" format="color"/>
+    </declare-styleable>
+</resources>
